@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
             {/* Logo & Info */}
             <div>
               <a href="#" className="flex items-center">
-                <img src="/public/images/logo.webp" alt="logo" className='w-12 h-10' />
+                <img src="/images/logo.webp" alt="logo" className='w-12 h-10' />
               </a>
               <p className="text-zinc-400 mb-4">Classic cuts with modern style</p>
               <div className="flex space-x-4">
