@@ -54,7 +54,7 @@ const toggleTheme = () => {
       <div className="container  px-4">
         <div className="flex justify-between items-center">
           <a href="#" className="flex items-center">
-            <img src="/src/data/logo.webp" alt="logo" className="w-12 h-10" />
+            <img src="/public/images/logo.webp" alt="logo" className="w-12 h-10" />
           </a>
 
           {/* Desktop Navigation */}
